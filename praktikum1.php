@@ -15,4 +15,4 @@ $p2 = new Pengunjung();
 $p3 = new Pengunjung();
 
 
-echo "Jumlah Pengunjung (Sebelum Reset): " . Pengunjung::$jumlah . "\n";
+echo Pengunjung::$jumlah . "\n";
